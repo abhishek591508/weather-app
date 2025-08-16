@@ -1,0 +1,15 @@
+.InfoBoxClass{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.cardClass{
+    text-align: center;
+}
+
+.cityNameClass{
+    background-color: rgb(215, 223, 235);   
+}
